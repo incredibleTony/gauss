@@ -10,3 +10,5 @@ class GaussianRational:
         return GaussianRational(self.x-right.x, self.y-right.y)
     def __mul__(self,right):
         return GaussianRational(self.x*right.x-self.y*right.y, self.x*right.y+self.y*right.x)
+    def __crazy(fdjakhfld):
+        fhdahjfdka
